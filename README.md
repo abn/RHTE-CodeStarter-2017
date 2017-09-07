@@ -1,7 +1,5 @@
 # RedHat-CodeStarter-RHTE APAC 2017
 
-This repository contains all the projects and dependencies needed to create the .dp file that has to be installed in the Raspberry Pi.
-
 ## Get Started:
 Download the Presentation at: https://goo.gl/WYDoi6
 
@@ -28,4 +26,4 @@ Download the Presentation at: https://goo.gl/WYDoi6
 ### Start the VM and test the emulated environment
 At this point you can start your VM and, following the slides, create your own Wire graph experimenting with the simulated PLC running in your VM.
 
-
+For Complete instructions, code used for CodeStarter at Summit: https://github.com/eurotech/RedHat-CodeStarter-2017/tree/opcua-server-grovepi
